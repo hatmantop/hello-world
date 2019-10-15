@@ -1,3 +1,2 @@
-# hello-world
-First repo
-This is my second attempt to use GitHub. I feel using git is a skill that I should learn and master as I continue in my career as a Computer Scientist.
+# Terminal Tic Tac Toe
+This is some code that I wrote when I was just learning how to program. It is a networked client and server for a tic tac toe game that you can play in a terminal.
